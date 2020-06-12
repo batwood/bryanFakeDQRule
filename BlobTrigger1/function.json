@@ -1,0 +1,11 @@
+﻿{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "path": "jsondata",
+      "connection": "storageaccountbryana477_STORAGE",
+      "direction": "in",
+      "type": "blobTrigger"
+    }
+  ]
+}
